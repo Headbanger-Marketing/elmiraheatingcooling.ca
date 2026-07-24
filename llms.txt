@@ -1,0 +1,26 @@
+# Elmira Heating & Cooling
+
+> Elmira Heating & Cooling is a local HVAC company serving Elmira, Waterloo Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 669-4738  |  Email: contact@elmiraheatingcooling.ca  |  Website: https://elmiraheatingcooling.ca
+
+Service areas: Elmira, Cambridge, Kitchener, Waterloo, Listowel, New Hamburg, Baden, Breslau
+
+## Key pages
+
+- [Home](https://elmiraheatingcooling.ca/): Elmira Heating & Cooling homepage with service overview and FAQ
+- [About](https://elmiraheatingcooling.ca/about/): About the company and service area
+- [Contact](https://elmiraheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://elmiraheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Elmira, Ontario
+- [AC Installation & Repair](https://elmiraheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Elmira, Ontario
+- [Heat Pumps](https://elmiraheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Elmira, Ontario
+- [Duct Cleaning](https://elmiraheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Elmira, Ontario
+- [Thermostats](https://elmiraheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Elmira, Ontario
+- [Ductless AC Installation](https://elmiraheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Elmira, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Elmira are answered on the homepage.

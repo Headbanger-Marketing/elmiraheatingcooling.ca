@@ -1,26 +1,26 @@
 # Elmira Heating & Cooling
 
-> Elmira Heating & Cooling is an Ontario heating and cooling contractor based in Elmira. Homeowners call the team for furnace and air conditioner repair, heat pump and ductless installation, fireplace service, smart thermostat setup, and full-system duct cleaning across Waterloo Region.
+> Heating and cooling requests for Elmira. Heat-pump repair and installation guidance covers diagnosis of heating and cooling faults and selection of replacement equipment for ducted or ductless systems.
 
-Phone: (519) 669-4738  |  Email: contact@elmiraheatingcooling.ca  |  Website: https://elmiraheatingcooling.ca
+Email: contact@elmiraheatingcooling.ca  |  Website: https://elmiraheatingcooling.ca
 
-Service areas: Elmira, Cambridge, Kitchener, Waterloo, Listowel, New Hamburg, Baden, Breslau
+Request locations: Elmira, Cambridge, Kitchener, Waterloo, Listowel, New Hamburg, Baden, Breslau. Coverage and availability require provider confirmation.
 
 ## Key pages
 
-- [Home](https://elmiraheatingcooling.ca/): Elmira Heating & Cooling homepage with service overview and FAQ
-- [About](https://elmiraheatingcooling.ca/about/): About the company and service area
-- [Contact](https://elmiraheatingcooling.ca/contact/): Request a free quote or service call
+- [Home](https://elmiraheatingcooling.ca/): Service request overview and equipment guidance
+- [About](https://elmiraheatingcooling.ca/about/): Website and inquiry process
+- [Contact](https://elmiraheatingcooling.ca/contact/): Submit a service inquiry
 
 ## Services
 
-- [Furnace Installation & Repair](https://elmiraheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Elmira, Ontario
-- [AC Installation & Repair](https://elmiraheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Elmira, Ontario
-- [Heat Pumps](https://elmiraheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Elmira, Ontario
-- [Duct Cleaning](https://elmiraheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Elmira, Ontario
-- [Thermostats](https://elmiraheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Elmira, Ontario
-- [Ductless AC Installation](https://elmiraheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Elmira, Ontario
+- [Furnace Installation & Repair](https://elmiraheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair guidance and requests in Elmira, Ontario
+- [AC Installation & Repair](https://elmiraheatingcooling.ca/services/ac-repair/): AC Installation & Repair guidance and requests in Elmira, Ontario
+- [Heat Pumps](https://elmiraheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps guidance and requests in Elmira, Ontario
+- [Duct Cleaning](https://elmiraheatingcooling.ca/services/duct-cleaning/): Duct Cleaning guidance and requests in Elmira, Ontario
+- [Thermostats](https://elmiraheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats guidance and requests in Elmira, Ontario
+- [Ductless AC Installation](https://elmiraheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation guidance and requests in Elmira, Ontario
 
 ## FAQ
 
-Common questions about HVAC service in Elmira are answered on the homepage.
+Questions about heating and cooling requests in Elmira are addressed on the homepage.
